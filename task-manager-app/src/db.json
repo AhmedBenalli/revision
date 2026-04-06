@@ -1,0 +1,45 @@
+{
+  "tasks": [
+    {
+      "id": "1",
+      "title": "Préparer le cours React",
+      "description": "Créer les slides et les exercices pratiques pour le chapitre sur les hooks",
+      "dueDate": "2026-04-05",
+      "priority": "élevée",
+      "completed": true
+    },
+    {
+      "id": "2",
+      "title": "Faire les courses",
+      "description": "Acheter des légumes, du pain et du lait",
+      "dueDate": "2026-04-01",
+      "priority": "moyenne",
+      "completed": true
+    },
+    {
+      "id": "3",
+      "title": "Réviser TypeScript",
+      "description": "Terminer le chapitre sur les interfaces et les types avancés",
+      "dueDate": "2026-04-10",
+      "priority": "élevée",
+      "completed": true
+    },
+    {
+      "id": "4",
+      "title": "Appeler le médecin",
+      "description": "Prendre rendez-vous pour le bilan annuel",
+      "dueDate": "2026-04-03",
+      "priority": "faible",
+      "completed": true
+    },
+    {
+      "id": "5",
+      "title": "Faire du sport",
+      "description": "30 minutes de cardio et 20 minutes de musculation",
+      "dueDate": "2026-04-02",
+      "priority": "moyenne",
+      "completed": true
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}

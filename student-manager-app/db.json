@@ -1,0 +1,44 @@
+{
+    "students": [
+      {
+        "id": "1",
+        "fullName": "Alice Martin",
+        "email": "alice.martin@email.com",
+        "major": "Informatique",
+        "level": "2ème année",
+        "status": "actif"
+      },
+      {
+        "id": "2",
+        "fullName": "Thomas Bernard",
+        "email": "thomas.bernard@email.com",
+        "major": "Gestion",
+        "level": "1ère année",
+        "status": "actif"
+      },
+      {
+        "id": "3",
+        "fullName": "Sophie Dubois",
+        "email": "sophie.dubois@email.com",
+        "major": "Informatique",
+        "level": "3ème année",
+        "status": "inactif"
+      },
+      {
+        "id": "4",
+        "fullName": "Lucas Petit",
+        "email": "lucas.petit@email.com",
+        "major": "Marketing",
+        "level": "2ème année",
+        "status": "actif"
+      },
+      {
+        "id": "5",
+        "fullName": "Emma Rousseau",
+        "email": "emma.rousseau@email.com",
+        "major": "Informatique",
+        "level": "1ère année",
+        "status": "actif"
+      }
+    ]
+  }
