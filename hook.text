@@ -1,0 +1,13 @@
+Hook : Une fonction permettant d'utiliser les fonctionnalités de React dans des composants simples (fonctions).
+
+useEffect vs componentDidMount : useEffect est plus polyvalent ; il peut agir au démarrage, à chaque modification ou à la fermeture.
+
+useRef : Il sert à stocker une valeur persistante sans rafraîchir l'affichage de l'écran quand elle change.
+
+useMemo vs useCallback : useMemo garde en mémoire un résultat, alors que useCallback garde en mémoire une fonction.
+
+SPA : Une application web qui change de contenu sans jamais recharger totalement la page du navigateur.
+
+State vs Props : Le State est géré à l'intérieur du composant, tandis que les Props sont envoyées par le parent.
+
+
